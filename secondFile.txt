@@ -1,8 +1,8 @@
+Different info
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
-Added secondFile.txt to git_1
-Added secondFile.txt to git_1
+Different info
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
