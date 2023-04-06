@@ -1,10 +1,10 @@
 Added firstFile.txt to git_1
+Changed 2nd line
+Another line for modification
+4th line is also modified
 Added firstFile.txt to git_1
 Added firstFile.txt to git_1
 Added firstFile.txt to git_1
+AddefirstFile.txt to git_1
 Added firstFile.txt to git_1
-Added firstFile.txt to git_1
-Added firstFile.txt to git_1
-Added firstFile.txt to git_1
-Added firstFile.txt to git_1
-Added firstFile.txt to git_1
+The final one
